@@ -3,3 +3,5 @@ This is another file created in remote but modified under feature-2 branch.
 This file is modified locally.
 
 This is modifed under feature-2 branch.
+
+This is again modified under feature-2 branch.
