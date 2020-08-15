@@ -1,3 +1,3 @@
 This is just for test repo.
 
-This is modified locally.
+Removed everything and resolved conflict.
